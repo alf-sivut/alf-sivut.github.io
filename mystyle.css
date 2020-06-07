@@ -1,10 +1,10 @@
-body {     background-color: lightblue; 
+body {     background-color: lightgray; 
 } 
-h1 { font-family: calibri; color: red;     
+h1 { font-family: calibri; color: gray;     
 } 
-p {     font-family: calibri;     font-size: 16px; 
+p {     font-family: calibri;     font-size: 14px; 
 }
-a {     font-family: calibri;     font-size: 20px;
+a {     font-family: calibri;     font-size: 18px;
 }
 ul {
   font-family: calibri;
